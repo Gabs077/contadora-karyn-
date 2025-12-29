@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+body {
+  background-image: url('fundo.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.overlay {
+  background: rgba(255, 255, 255, 0.85);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.conteudo {
+  text-align: center;
+  max-width: 600px;
+}
+
+h1 {
+  color: #0a2c5d;
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #333;
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+
+.botao {
+  background: #0a2c5d;
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.botao:hover {
+  background: #083066;
+}

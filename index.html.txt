@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Contadora Karyn Beltrame</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="overlay">
+  <div class="conteudo">
+    <h1>Contadora Karyn Beltrame</h1>
+    <p>Excelência, confiança e profissionalismo em contabilidade</p>
+
+    <a href="https://wa.me/5500000000000" class="botao">
+      Fale no WhatsApp
+    </a>
+  </div>
+</div>
+
+</body>
+</html>
